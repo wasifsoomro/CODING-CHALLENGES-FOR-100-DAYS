@@ -1,6 +1,4 @@
-"use strict";
 //store string in variable
-Object.defineProperty(exports, "__esModule", { value: true });
 let nameCases = "Muhammad wasif";
 //apply uppercase method to convert all characters of string in uppercase
 nameCases = nameCases.toUpperCase();
@@ -20,3 +18,4 @@ in last i apply join method that adds all element of array into string
  */
 let nameCases2 = nameCases.split(" ").map((title) => title[0].toUpperCase() + title.substring(1)).join(" ");
 console.log(nameCases2);
+export {};

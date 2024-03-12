@@ -1,6 +1,4 @@
-"use strict";
 //Addition
-Object.defineProperty(exports, "__esModule", { value: true });
 let num1 = 5;
 let num2 = 3;
 let sum1 = num1 + num2;
@@ -20,3 +18,4 @@ let num7 = 24;
 let num8 = 3;
 let sum4 = num7 / num8;
 console.log(sum4);
+export {};
