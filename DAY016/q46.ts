@@ -15,4 +15,4 @@ let laptop1: Laptop={
         console.log(`\nThis is a ${laptop1.make} laptop and model is ${laptop1.model} year ${laptop1.year}\n`)
     }
 }
-laptop.describe() // invoke function as property outside the object scope that print my msg
+laptop1.describe() // invoke function as property outside the object scope that print my msg
