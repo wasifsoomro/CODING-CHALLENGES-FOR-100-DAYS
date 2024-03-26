@@ -1,4 +1,4 @@
-//69
+// Question 69
 //create a function with two paramter and return a object 
 function deviding(devided, devisor) {
     //Apply math.floor function that convert decimal places into integer number 
