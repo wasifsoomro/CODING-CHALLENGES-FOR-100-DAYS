@@ -4,4 +4,4 @@
 Learn about TypeScript classes by using the following guide and coding along with the examples provided in it:
 
 
-[Class Type Annotations in TypeScript](DAY71/TS-CLass/README.md)
+[Class Type Annotations in TypeScript](TS-CLass/README.md)

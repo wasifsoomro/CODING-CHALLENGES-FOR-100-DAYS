@@ -4,4 +4,4 @@
 Learn about TypeScript generics by using the following guide and coding along with the examples provided in it:
 
 
-[Generics in TypeScript](DAY72/TS-Generics/README.md)
+[Generics in TypeScript](TS-Generics/README.md)

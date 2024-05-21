@@ -4,4 +4,4 @@
 Learn about TypeScript Debugging by using the following guide and debug along with it:
 
 
-[Debugging in TypeScript](DAY74/TS-debuging/READM.md)
+[Debugging in TypeScript](TS-debuging/READM.md)

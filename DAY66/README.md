@@ -4,4 +4,4 @@
 Learn about different TypeScript type system concepts by using the following guide and coding along with the examples provided in it:
 
 
-[TypeScript Type System Concepts](DAY66/TS-Type-System-Concepts/README.md)
+[TypeScript Type System Concepts](TS-Type-System-Concepts/README.md)

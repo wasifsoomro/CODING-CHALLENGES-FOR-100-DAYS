@@ -4,5 +4,5 @@
 Learn about TypeScript objects by using the following guide and coding along with the examples provided in it:
 
 
-[Type Annotations with Objects in TypeScript](DAY64/TS-Object/README.md
+[Type Annotations with Objects in TypeScript](TS-Object/README.md
 )

@@ -4,4 +4,4 @@
 Learn about TypeScript interfaces by using the following guide and coding along with the examples provided in it:
 
 
-[Interface in TypeScript](DAY70/TS-Interface/README.md)
+[Interface in TypeScript](TS-Interface/README.md)

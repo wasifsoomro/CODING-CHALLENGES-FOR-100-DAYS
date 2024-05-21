@@ -4,5 +4,5 @@
 Learn about TypeScript tuples by using the following guide and coding along with the examples provided in it:
 
 
-[Tuple Data Type in TypeScript](DAY68/TS-Tuple/README.md)
+[Tuple Data Type in TypeScript](TS-Tuple/README.md)
 
